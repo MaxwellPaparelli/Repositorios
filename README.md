@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="capa.jfif" >
 </p>
 
 # Olá seja bem vindo ao meu repositório no GitHub!
