@@ -2,7 +2,7 @@
   <img src="capa.jfif" >
 </p>
 
-# Olá seja bem vindo ao meu repositório no GitHub!
+# Olá seja muito bem vindo ao meu repositório no GitHub!
 
 **Sou Maxwell Avila Paparelli e aqui você encontrará meus portifólios em Data Science e Full-Stack Develper**
 
